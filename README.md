@@ -1,4 +1,4 @@
-﻿# selesManager
+# selesManager
 ## 服务器
   使用[服务器](https://github.com/shizukulll/springbootServer)
   该项目使用springboot和mysql，只需要安装jdk和mysql就可以轻松部署
@@ -10,3 +10,7 @@
 ## 测试
 
 有时间在搞
+
+
+## 介绍
+[点击查看](https://zhuanlan.zhihu.com/p/704031363?utm_psn=1786549554734252032)
